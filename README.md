@@ -19,8 +19,8 @@ Read here for full instructions: [teledriveapp.com](https://teledriveapp.com)
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/restfireteam/workspace/mgilangjanuar/collection/1778529-3e4b0f8d-f721-4055-8d30-33cacaea93e6?ctx=documentation)
 
 ## How to Contribute
-
-- Fork and clone this repository
+ 
+- Fork and clone thi s repository
 - Commit your changes
 - Create a pull request to the `staging` branch
 
